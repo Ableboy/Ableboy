@@ -21,7 +21,7 @@ My approach: **Build → Break → Defend → Automate → Scale → Architect**
 
 | Project | What it does | Status |
 |---------|--------------|--------|
-| [NetProbe](https://github.com/Ableboy/application-security-sandbox/tree/main/phase1-network/netprobe) | Network scanning and probing tool in Python | 🚧 In progress |
+| [NetProbe](https://github.com/Ableboy/application-security-sandbox/tree/main/netprobe) | Network scanning and probing tool in Python | 🚧 In progress |
 
 Full roadmap and all projects: **[application-security-sandbox](https://github.com/Ableboy/application-security-sandbox)**
 
